@@ -5,7 +5,7 @@ import React, {ReactNode} from "react";
 import {Languages, Sections} from "../lib/enums";
 
 export const name = 'Carnicero Irnobkowski';
-export const siteTitle = 'cirnovskys blog';
+export const siteTitle = "cirnovsky's blog";
 
 export default function Layout({children, section, curLan, setCurLan}: {
     children: ReactNode,
