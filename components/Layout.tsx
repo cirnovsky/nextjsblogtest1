@@ -4,8 +4,8 @@ import Link from 'next/link';
 import React, {ReactNode} from "react";
 import {Languages, Sections} from "../lib/enums";
 
-export const name = 'Isaac Jin';
-export const siteTitle = 'CHAOS';
+export const name = 'Carnicero Irnobkowski';
+export const siteTitle = 'cirnovsky's blog';
 
 export default function Layout({children, section, curLan, setCurLan}: {
     children: ReactNode,
